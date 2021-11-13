@@ -1,6 +1,6 @@
 # Unicenta opos dashboard web app + SvelteKit
 
-This is an open source project for web admin dashboard clasic pos system build with SvelteKit.
+This is an open source project for web admin dashboard clasic pos point of sale system build with SvelteKit.
 
 Read Documentation : [https://www.hockeycomputindo.com/2021/11/how-to-install-unicenta-web-app-svelte.html](https://www.hockeycomputindo.com/2021/11/how-to-install-unicenta-web-app-svelte.html)
 
